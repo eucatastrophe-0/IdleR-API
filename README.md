@@ -11,4 +11,4 @@ With this API, you can build a basic idle game just by defining the resources an
 The code takes care of tracking resource values and formatting the GUI.
 In addition, the classes and methods are robust enough that if you wanted to make a more complex game (featuring upgrades, special timed events, etc.), you could.
 
-For a more in depth description of the classes and methods in this API, see the docx file [IdleR_API readme.docx] in this repository.
+For a more in depth description of the classes, methods, and files in this API, see the docx file [IdleR_API readme.docx] in this repository.
